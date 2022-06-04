@@ -6,8 +6,8 @@ global.owner = [
   ['6283816271576', 'ZhaaLLBot', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['6283816271576'] // Want some help?
-global.prems = ['6283816271576'] // Premium user has unlimited limit
+global.mods = ['6283816171576'] // Want some help?
+global.prems = ['6283816171576'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
